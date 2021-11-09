@@ -1,4 +1,4 @@
-# Crypto Tip Bot
+# Crypto Tipk Bot
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/Exzender/Telegram.Crypto.Bot)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Exzender/Telegram.Crypto.Bot)

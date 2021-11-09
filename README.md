@@ -1,4 +1,4 @@
-# Crypto Tipk Bot
+# Crypto.Tip.Bot
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/Exzender/Telegram.Crypto.Bot)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Exzender/Telegram.Crypto.Bot)
@@ -9,7 +9,7 @@ AirDrop and tipping bot.
 
 AirDrop and Tipping bot for Crypto Coins
 
-Was first introduced for a Callisto Network (https://callisto.network/)
+Was first introduced CRYPTO.TIP.BOT
 
 Supported coins/chains
 
@@ -18,7 +18,7 @@ Supported coins/chains
 Bot works with on-chain transactions, so standard transactions fees are applied to every operation.
 No other fees will be charged (except lotteries)
 
-To start using bot first register in @Crypto_TheBot
+To start using bot first register in @Crypto_Tip_bot
 
 Support the bot maintenace and development with donations
 (you can simply tip the bot itself to make a donation)
